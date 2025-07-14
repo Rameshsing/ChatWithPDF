@@ -22,3 +22,5 @@ Follow the steps below to run this project locally on your machine:
 ```bash
 git clone https://github.com/your-username/chat-pdf-gemini.git
 cd chat-pdf-gemini
+
+# Create a Virtual Environment (Recommended)
